@@ -1,4 +1,11 @@
-# Metasploit MCP Server
+# MetasploitMCP
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/MetasploitMCP)](https://github.com/Panda1847/MetasploitMCP/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/MetasploitMCP)](https://github.com/Panda1847/MetasploitMCP/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/MetasploitMCP)](https://github.com/Panda1847/MetasploitMCP/issues)
+[![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://github.com/Panda1847/MetasploitMCP)
+
 
 A Model Context Protocol (MCP) server for Metasploit Framework integration.
 
